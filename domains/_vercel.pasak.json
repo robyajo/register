@@ -1,7 +1,7 @@
 {
   "owner": {
-   "username": "pasak-dev",
-   "email": "pasak.dev@gmail.com"
+    "username": "pasak-dev",
+    "email": "pasak.dev@gmail.com"
   },
   "records": {
     "TXT": "vc-domain-verify=pasak.is-a.dev,4114b5c8ee89a98b8148"
